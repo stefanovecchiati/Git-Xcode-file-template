@@ -12,7 +12,7 @@ ATTENTION: if you cahnge the name of the file, you must lunch the comand with th
 
 git config --global core.excludesfile ~/(NAME_FILE).gitignore
 
-## How Add Xcode File Template
+## How Add Xcode File Templates
 
 This file is a file template for xcode, for import it, open your folder and go to your home (name of the computer, as icon you have an home) there go to library/Developer/Xcode and open the folder Templates and (if you dont have it, just create a folder called Templates). Here create a folder with the name of File Templates and inside this folder insert the folder called Gitignore.xctemplate.
 
