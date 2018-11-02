@@ -2,9 +2,9 @@
 add the template for the file git (read file git there are some instructions or ask to me)
 
 
-# IMPORTANT:
-# for read correctly this file you must write this command on your terminal and dont change the name of the git file
-# git config --global core.excludesfile ~/Xcode.gitignore
+IMPORTANT:
+for read correctly this file you must write this command on your terminal and dont change the name of the git file
+git config --global core.excludesfile ~/Xcode.gitignore
 
 By launching this command, you're going to read all the files named that Xcode.gitignore as if they were just the gitistore, so go ignore the name
 
