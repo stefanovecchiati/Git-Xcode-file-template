@@ -1,6 +1,4 @@
 # Git-Xcode-file-template
-add the template for the file git (read file git there are some instructions or ask to me)
-
 
 IMPORTANT:
 for read correctly this file you must write this command on your terminal and dont change the name of the git file
