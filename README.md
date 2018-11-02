@@ -1,5 +1,7 @@
 # Git-Xcode-file-template
 
+This is a Xcode file template for gitignore, the purpose to have it is for have all necessary standard elements on .gitignore and have this file inside the xcode project, so, in this way, it's easier editing and change rules in the .gitignore file.
+
 ## IMPORTANT:
 for read correctly this file you must write this command on your terminal and dont change the name of the git file
 git config --global core.excludesfile ~/Xcode.gitignore
